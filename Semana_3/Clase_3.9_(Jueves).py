@@ -13,7 +13,7 @@ compa2 = year < nineth #El Alvin profe cree que no (Un sabio)
 compa3 = compa1 + 10
 compa4 = compa2 + 10
 
-"""
+
 
 print(grad)
 print(nineth)
@@ -23,7 +23,7 @@ print(compa1)
 print(compa2)
 print(compa3)
 print(compa4)
-"""
+
 
 pi = 3.141516
 print(pi)
